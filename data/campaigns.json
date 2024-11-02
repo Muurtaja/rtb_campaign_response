@@ -1,0 +1,58 @@
+[
+    {
+        "campaignname" : "Bangladesh_Banner_Campaign",
+        "advertiser" : "AdPlayTech",
+        "price" : 0.05,
+        "country" : "BGD",
+        "dimension" : "320x50",
+        "creative_id" : 101234,
+        "image_url" : "https://example.com/banners/banner_320x50.png",
+        "landing_page" : "https://example.com/landing_page",
+        "device_type" : "Android"
+    },
+
+    {
+        "campaignname" : "Test_Banner_13th-31st_march_Developer",
+        "advertiser" : "TestGP",
+        "price" : 0.1,
+        "country" : "BGD",
+        "dimension" : "320x480",
+        "creative_id" : 167629,
+        "image_url" : "https://example.com/banner1.png",
+        "landing_page" : "https://example.com/page1",
+        "device_type" : "Android"
+    },
+    {
+        "campaignname" : "March_Campaign_2024",
+        "advertiser" : "AdPartner",
+        "price" : 0.15,
+        "country" : "BGD",
+        "dimension" : "320x480",
+        "creative_id" : 172839,
+        "image_url" : "https://example.com/banner2.png",
+        "landing_page" : "https://example.com/page2",
+        "device_type" : "iOS"
+    },
+    {
+        "campaignname" : "International_Campaign",
+        "advertiser" : "GlobalAds",
+        "price" : 0.2,
+        "country" : "USA",
+        "dimension" : "320x480",
+        "creative_id" : 183947,
+        "image_url" : "https://example.com/banner3.png",
+        "landing_page" : "https://example.com/page3",
+        "device_type" : "Desktop"
+    },
+    {
+        "campaignname" : "Local_Premium",
+        "advertiser" : "AdMax",
+        "price" : 0.25,
+        "country" : "BGD",
+        "dimension" : "640x360",
+        "creative_id" : 193847,
+        "image_url" : "https://example.com/banner4.png",
+        "landing_page" : "https://example.com/page4",
+        "device_type" : "Android"
+    }
+]

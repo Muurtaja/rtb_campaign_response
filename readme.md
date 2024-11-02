@@ -10,7 +10,7 @@ This system processes bid requests and returns the most suitable ad campaign.
 - **libs/Campaign.php**: Represents a campaign and checks compatibility with a bid request.
 - **libs/CampaignSelector.php**: Selects the best matching campaign based on bid criteria.
 - **libs/RTBHandler.php**: Coordinates the process by coordinating bid request verification, campaign selection, and response generation.
-- **test/RTB.postman_collection.json**: tman collection file containing predefined requests for testing the module, along with sample bid requests and expected responses.
+- **test/RTB.postman_collection.json**: Postman collection file containing predefined requests for testing the module, along with sample bid requests and expected responses.
 
 ## Workflow
 
